@@ -2,19 +2,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ag-l4z3r)
 
-###
+### About Me
 
-<h2 align="left">About Me</h2>
+- 🎓 &nbsp; Graduated from New Jersey Institute of Technology with a Bachelor of Science degree in Information Technology.
+- 💻 &nbsp; Aspiring software engineer with a focus on cybersecurity & web development.
+- 🚀 &nbsp; Constantly learning and exploring new technologies to stay up to date.
+- 🎲 &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard.
 
-###
+Joined Github {{ ACCOUNT_AGE }} years ago.<br><br>Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories.
 
-<p align="left">🎓 I graduated from New Jersey Institute of Technology with a Bachelor of Science degree in Information Technology.<br>💻 Aspiring software engineer with a focus on cybersecurity & web development.<br>🚀 Constantly learning and exploring new technologies to stay up to date.<br>🎲 Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard.<br><br>Joined Github {{ ACCOUNT_AGE }} years ago.<br><br>Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories.</p>
-
-###
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -46,14 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+  <code><img width="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
 
-###
-
-<h2 align="left">My GitHub Stats</h2>
-
-###
+### My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyb3rRapt0r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
