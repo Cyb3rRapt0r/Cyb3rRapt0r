@@ -1,9 +1,12 @@
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: "0 */12 * * *" # every 12 hours
+
+  workflow_dispatch:
+  
   push:
     branches:
-      - main
+      - master
 jobs:
   publish:
     runs-on: ubuntu-latest
