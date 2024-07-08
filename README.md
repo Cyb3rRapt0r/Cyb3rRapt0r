@@ -11,7 +11,7 @@
 
 <br>Joined Github **4** years ago.
 
-Since then I pushed **144**+ commits, opened **1**+ issues, submitted **9**+ pull requests, and contributed to **17**+ public repositories.
+Since then I pushed **158**+ commits, opened **1**+ issues, submitted **9**+ pull requests, and contributed to **17**+ public repositories.
 
 ## Languages and Tools
 
