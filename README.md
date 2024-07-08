@@ -49,9 +49,9 @@ Since then I pushed **159**+ commits, opened **1**+ issues, submitted **9**+ pul
 
 ## My GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyb3rRapt0r&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&order=1" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rRapt0r&show_icons=true&layout=compact&langs_count=8&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyb3rRapt0r&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rRapt0r&show_icons=true&layout=compact&langs_count=8&theme=dracula&hide_border=true&order=2" height="190" alt="languages graph"  />
 </div>
 
 ###
