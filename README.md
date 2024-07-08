@@ -9,7 +9,9 @@
 - 🚀 &nbsp; Constantly learning and exploring new technologies to stay up to date.
 - 🎲 &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard.
 
-Joined Github {{ ACCOUNT_AGE }} years ago.<br><br>Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories.
+Joined Github {{ ACCOUNT_AGE }} years ago.
+
+Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories.
 
 ### Languages and Tools:
 
