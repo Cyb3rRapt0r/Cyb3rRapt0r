@@ -9,9 +9,9 @@
 - 🚀 &nbsp; Constantly learning and exploring new technologies to stay up to date.
 - 🎲 &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **4** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed **144**+ commits, opened **1**+ issues, submitted **9**+ pull requests, created **0**+ gists and contributed to **2**+ public repositories.
 
 ### Languages and Tools:
 
@@ -46,7 +46,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="40" alt="terminal">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="40" alt="terminal"  />
 </div>
 
 ### My GitHub Stats
