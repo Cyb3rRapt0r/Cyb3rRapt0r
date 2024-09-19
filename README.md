@@ -1,5 +1,6 @@
 # Hey there 👋, I'm [Andrew!](https://www.github.com/Cyb3rRapt0r/)
 
+[![Profile View Counter](https://visitcount.itsvg.in/api?id=Cyb3rRapt0r&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ag-l4z3r)
 
 ### About Me
@@ -7,7 +8,7 @@
 - 🎓 &nbsp; Graduated from New Jersey Institute of Technology with a Bachelor of Science degree in Information Technology.
 - 💻 &nbsp; Aspiring software engineer with a focus on cybersecurity & web development.
 - 🚀 &nbsp; Constantly learning and exploring new technologies to stay up to date.
-- 🎲 &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard!
+- ⚡ &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard!
 
 <br>Joined Github **4** years ago.
 
@@ -19,7 +20,7 @@ Since then I pushed **161**+ commits, opened **1**+ issues, submitted **9**+ pul
 <img width="6" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"></code>
 <img width="6" />
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"></code>
+<code><href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"></code>
 <img width="6" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"></code>
 <img width="6" />
