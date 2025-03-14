@@ -6,7 +6,7 @@
 ### About Me
 
 - 🎓 &nbsp; Graduated from New Jersey Institute of Technology with a Bachelor of Science degree in Information Technology.
-- 💻 &nbsp; Aspiring software engineer with a focus on cybersecurity & web development.
+- 💻 &nbsp; Aspiring cybersecurity analyst with an interest in IT & web development.
 - 🚀 &nbsp; Constantly learning and exploring new technologies to stay up to date.
 - ⚡ &nbsp; Fun fact: The word "TYPEWRITER" can be written using only one row of the QWERTY keyboard!
 
