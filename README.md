@@ -1,7 +1,7 @@
 # Hey there 👋, I'm [Andrew!](https://www.github.com/Cyb3rRapt0r/)
 
-[![Profile View Counter](https://visitcount.itsvg.in/api?id=Cyb3rRapt0r&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ag-l4z3r)
+![Visitor Count](https://profile-counter.glitch.me/{Cyb3rRapt0r}/count.svg) &nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=default&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ag-l4z3r)
 
 ### About Me
 
